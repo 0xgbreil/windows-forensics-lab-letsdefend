@@ -14,6 +14,10 @@ This write-up is useful for beginners in Digital Forensics and DFIR who want to 
 
 ---
 
+## Preview
+![Lab Screenshot](1.png)
+
+
 ## Write-up
 You can find the full detailed write-up here:  
 👉 [Medium Article](https://medium.com/@0xgbreil/windows-forensics-course-letsdefend-26ff3611a9b3)
@@ -25,8 +29,17 @@ You can download the lab files from here:
 https://drive.google.com/drive/folders/1vOMKuZ1kRK7pcMbLqY3UjIjlNQDJQpjb?usp=sharing
 ---
 
-## Preview
-![Lab Screenshot](1.png)
+## Tools Used
+
+The following tools from Eric Zimmerman's suite were used in this lab:
+
+- MFTECmd (MFT analysis)  
+- Timeline Explorer (CSV analysis and timeline visualization)  
+- LECmd (LNK files analysis)  
+- PECmd (Prefetch files analysis)  
+
+You can find all tools here:  
+👉 https://ericzimmerman.github.io/#!index.md
 
 ---
 
