@@ -31,6 +31,6 @@ All required lab files are included in this repository for practice and analysis
 ---
 
 ## Connect with me
-- LinkedIn: [LinkedIn](https://medium.com/@0xgbreil)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/0xgbreil/)
 - Medium: [Medium](https://medium.com/@0xgbreil)
 - X (Twitter): [X](https://x.com/0xgbreil)
