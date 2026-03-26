@@ -31,16 +31,16 @@ https://drive.google.com/drive/folders/1vOMKuZ1kRK7pcMbLqY3UjIjlNQDJQpjb?usp=sha
 
 ## Tools Used
 
-The following tools from Eric Zimmerman's suite were used in this lab:
+This lab was analyzed using the following tools:
 
-- MFTECmd (MFT analysis)  
-- Timeline Explorer (CSV analysis and timeline visualization)  
-- LECmd (LNK files analysis)  
-- PECmd (Prefetch files analysis)  
+- **MFTECmd** – For analyzing $MFT artifacts  
+- **Timeline Explorer** – For viewing and filtering CSV timelines  
+- **LECmd** – For analyzing LNK shortcut files  
+- **PECmd** – For analyzing Prefetch files  
+- **DB Browser for SQLite** – For analyzing Windows Notification database  
 
-You can find all tools here:  
-👉 https://ericzimmerman.github.io/#!index.md
-
+🔗 Eric Zimmerman Tools: https://ericzimmerman.github.io/#!index.md  
+🔗 DB Browser for SQLite: https://sqlitebrowser.org/dl/
 ---
 
 ## Connect with me
