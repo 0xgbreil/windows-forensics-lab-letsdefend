@@ -1,2 +1,36 @@
-# windows-forensics-lab-letsdefend
-Windows Forensics lab solution from LetsDefend, including lab files and analysis of key artifacts such as MFT, USN Journal, LNK files, Prefetch, and Windows Notification DB.
+# Windows Forensics Lab – LetsDefend
+
+## Description
+This repository contains the lab files and my solution for the Windows Forensics lab from LetsDefend.  
+The lab covers analysis of important Windows forensic artifacts, including:
+
+- MFT (Master File Table)  
+- USN Journal  
+- LNK Files  
+- Prefetch Files  
+- Windows Notification Database  
+
+This write-up is useful for beginners in Digital Forensics and DFIR who want to understand how to analyze real artifacts step by step.
+
+---
+
+## Write-up
+You can find the full detailed write-up here:  
+👉 [Medium Article](https://medium.com/@0xgbreil/windows-forensics-course-letsdefend-26ff3611a9b3)
+
+---
+
+## Lab Files
+All required lab files are included in this repository for practice and analysis.
+
+---
+
+## Preview
+![Lab Screenshot](1.png)
+
+---
+
+## Connect with me
+- LinkedIn: [Your LinkedIn](https://medium.com/@0xgbreil)
+- Medium: [Your Medium](https://medium.com/@0xgbreil)
+- X (Twitter): [Your X](https://x.com/0xgbreil)
