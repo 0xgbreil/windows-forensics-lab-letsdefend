@@ -21,8 +21,8 @@ You can find the full detailed write-up here:
 ---
 
 ## Lab Files
-All required lab files are included in this repository for practice and analysis.
-
+You can download the lab files from here:  
+https://drive.google.com/drive/folders/1vOMKuZ1kRK7pcMbLqY3UjIjlNQDJQpjb?usp=sharing
 ---
 
 ## Preview
