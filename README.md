@@ -25,8 +25,13 @@ You can find the full detailed write-up here:
 ---
 
 ## Lab Files
-You can download the lab files from here:  
-https://drive.google.com/drive/folders/1vOMKuZ1kRK7pcMbLqY3UjIjlNQDJQpjb?usp=sharing
+
+The lab files are compressed and password protected for safety reasons.
+
+- Format: .rar  
+- Password: infected  
+
+After downloading, extract the files and use them for analysis.
 ---
 
 ## Tools Used
